@@ -2,7 +2,7 @@
 
 I'm a **Technical Designer and Developer** with 4 years of experience in game design and development - most recently focused on **tool development** and developer-facing workflows in Unreal Engine 5. 
 
-My background spans gameplay programming, UI/UX and level design where I also bring the same problem-solving approach to every proiject whether solo or collaborative. I build systems and tools that improve developer workflows and make game development faster, cleaner and more accessible. 
+My background spans gameplay programming, UI/UX and level design where I also bring the same problem-solving approach to every project whether solo or collaborative. I build systems and tools that improve developer workflows and make game development faster, cleaner and more accessible. 
 
 ---
 
